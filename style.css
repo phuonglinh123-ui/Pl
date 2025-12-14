@@ -116,7 +116,7 @@ img {
     text-align: center;
     font-size: 34px;
     font-weight: 700;
-    color: #F0F8FF;
+    color: white;
     text-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
 }
 
@@ -137,4 +137,5 @@ img {
     margin-top: 20px;
     margin-bottom: 20px;
     font-family: "Segoe UI", sans-serif;
+
 }
